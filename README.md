@@ -14,7 +14,7 @@ The following exchanges are supported (configurable in `config.py`):
 
 1. **Clone the repository**:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/orayaprolu/substack-funding-rate-screener
    cd substack-funding-rate
    ```
 
